@@ -4,6 +4,9 @@
 # production
 /build
 
+
+dev.js
+
 # misc
 .DS_Store
 
